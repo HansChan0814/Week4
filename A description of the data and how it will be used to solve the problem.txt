@@ -1,0 +1,7 @@
+2. A description of the data and how it will be used to solve the problem
+
+(1). First of all, I'll select 20 cities comprising Taipei by hand.
+(2). After that, I explore neighborhoods in each city by leveraging foursquare data.
+(3). I' ll do the same thing as in module 3 to analyze the venue category of each city.
+(4). Clustering the cities by the venue category of each city.
+(5). Finding out which cities are simlilar to Taipei and which are different from Taipei.
