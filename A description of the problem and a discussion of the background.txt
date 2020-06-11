@@ -1,0 +1,13 @@
+1. A description of the problem and a discussion of the background.
+
+Compare the neighborhoods of the multiple cities and determine how similar or dissimilar they are.
+For example, is New York City more like Toronto or Paris or some other multicultural city?
+
+First of all, I am a Taiwanese living in Taipei. 
+In our country, we don't have a long history so there are few historic buildings in our country.
+In contract, we have lots and lots of street vendors, convenience stores therefore it is convenience.
+
+I want to figure out if I decide to live in other country, which is suitble for me (that I can quickly get used to it)? 
+I also want to figure out if I want to travel to see different countries, which are sutible for me (that is very different from Taipei)?
+
+I'll choose 20 cities and find out the answers for myself.
